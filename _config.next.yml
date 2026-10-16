@@ -1,0 +1,61 @@
+# NexT theme config override for tiziwant.blog
+
+scheme: Muse
+
+darkmode: false
+
+favicon:
+  small: /images/favicon.png
+  medium: /images/favicon.png
+  apple_touch_icon: /images/site_icon_preview.png
+  safari_pinned_tab: /images/favicon.png
+
+custom_logo: /images/site_icon_preview.png
+
+menu:
+  home: / || fa fa-home
+  airport_recommend: /airport-recommend/ || fa fa-plane
+  airport_guide: /airport-guide/ || fa fa-compass
+  ladder_vpn: /ladder-vpn/ || fa fa-shield-alt
+  good_ladder: /good-ladder/ || fa fa-thumbs-up
+  service: /service/ || fa fa-server
+  faq: /faq/ || fa fa-question-circle
+  about: /about/ || fa fa-info-circle
+
+menu_settings:
+  icons: true
+  badges: false
+
+sidebar:
+  position: right
+  width: 310
+  display: always
+  padding: 16
+  offset: 12
+
+toc:
+  enable: true
+  number: false
+  wrap: true
+  max_depth: 3
+
+# Local Search (Client-side fast search across all articles)
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 2
+  unescape: false
+  preload: true
+
+footer:
+  since: 2026
+  icon:
+    name: fa fa-heart
+    animated: false
+    color: "#ff0000"
+  powered: false
+  custom_text: '<div style="margin-top: 10px; font-size: 13px; color: #666;"><strong>tiziwant.blog · 要梯子</strong> | 梯子推荐指南 · 机场推荐资料 · 梯子vpn说明 · 好用的梯子 · 梯子套餐规则 · 机场资料 · 服务 FAQ · 免责声明</div><div style="font-size: 12px; color: #888; margin-top: 5px;">本站致力于公开资料客观核对，不提供任何违法翻墙代理服务销售或第三方破解客户端分发。</div>'
+
+custom_file_path:
+  style: source/_data/styles.styl
+  sidebar: source/_data/sidebar.njk

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /search.xml
+Disallow: /*?*
+
+Sitemap: https://tiziwant.blog/sitemap.xml

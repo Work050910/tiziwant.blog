@@ -1,0 +1,23 @@
+{
+  "name": "tiziwant-blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python3 generate_site.py && hexo clean && hexo generate",
+    "clean": "hexo clean",
+    "server": "hexo server",
+    "push": "bash push.sh"
+  },
+  "dependencies": {
+    "hexo": "^8.1.2",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-searchdb": "^1.5.0",
+    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-renderer-marked": "^7.0.1",
+    "hexo-renderer-stylus": "^3.0.1",
+    "hexo-theme-next": "^8.29.0"
+  },
+  "hexo": {
+    "version": "8.1.2"
+  }
+}

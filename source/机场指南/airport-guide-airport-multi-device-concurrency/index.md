@@ -1,0 +1,13 @@
+---
+title: 机场多设备同时在线限制与家庭路由器旁路由透明代理配置指南
+layout: page
+comments: false
+---
+
+<script>window.location.replace("/airport-guide/airport-guide-airport-multi-device-concurrency/");</script>
+<meta http-equiv="refresh" content="0; url=/airport-guide/airport-guide-airport-multi-device-concurrency/">
+
+<div style="padding: 30px; text-align: center; font-size: 15px;">
+  <p>正在自动跳转至目标页面：</p>
+  <p style="margin-top: 10px;"><a href="/airport-guide/airport-guide-airport-multi-device-concurrency/" style="font-weight: bold; color: #0284c7;">/airport-guide/airport-guide-airport-multi-device-concurrency/</a></p>
+</div>
