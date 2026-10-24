@@ -2,6 +2,7 @@
 title: 机场资料专栏
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/");</script>

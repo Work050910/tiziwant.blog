@@ -2,6 +2,7 @@
 title: 梯子vpn购买前支付安全核验：支付宝、微信支付与加密货币结算的隐私与资金安全
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/ladder-vpn/ladder-vpn-ladder-vpn-payment-and-anonymity/");</script>

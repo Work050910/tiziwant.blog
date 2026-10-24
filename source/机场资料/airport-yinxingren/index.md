@@ -2,6 +2,7 @@
 title: 隐形人 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-yinxingren/");</script>

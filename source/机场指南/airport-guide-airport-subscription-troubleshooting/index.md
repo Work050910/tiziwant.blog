@@ -2,6 +2,7 @@
 title: 机场订阅导入常见报错排查指南：Clash、Sing-box与小火箭连接超时全解决
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-airport-subscription-troubleshooting/");</script>

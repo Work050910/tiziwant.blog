@@ -2,6 +2,7 @@
 title: 边缘节点（EdgeNova） 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-edgenova/");</script>

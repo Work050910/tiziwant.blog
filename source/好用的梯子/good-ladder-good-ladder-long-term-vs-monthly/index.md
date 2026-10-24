@@ -2,6 +2,7 @@
 title: 好用的梯子能买年付吗？月付试错成本与机场生命周期的客观辩证分析
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/good-ladder/good-ladder-good-ladder-long-term-vs-monthly/");</script>

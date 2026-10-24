@@ -2,6 +2,7 @@
 title: 机场推荐购买前确认什么？八项结算前必看的公开服务资料与避坑清单
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-airport-verification-rules/");</script>

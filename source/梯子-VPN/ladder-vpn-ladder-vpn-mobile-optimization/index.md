@@ -2,6 +2,7 @@
 title: 手机端梯子vpn多设备使用指南：iOS与安卓系统的后台保活、省电与无感分流
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/ladder-vpn/ladder-vpn-ladder-vpn-mobile-optimization/");</script>

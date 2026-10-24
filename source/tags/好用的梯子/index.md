@@ -2,6 +2,7 @@
 title: 标签：好用的梯子
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/good-ladder/");</script>

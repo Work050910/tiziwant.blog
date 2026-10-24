@@ -1772,6 +1772,7 @@ comments: false
 title: {title}
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("{target_url}");</script>

@@ -2,6 +2,7 @@
 title: 标签：机场推荐
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-recommend/");</script>

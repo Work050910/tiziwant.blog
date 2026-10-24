@@ -2,6 +2,7 @@
 title: 机场指南 分类
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/");</script>

@@ -2,6 +2,7 @@
 title: U1S1 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-u1s1/");</script>

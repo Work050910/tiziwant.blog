@@ -2,6 +2,7 @@
 title: 快狸 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-kuaili/");</script>

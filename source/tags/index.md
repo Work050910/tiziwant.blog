@@ -2,6 +2,7 @@
 title: 全站标签
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-recommend/");</script>

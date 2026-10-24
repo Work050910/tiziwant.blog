@@ -2,6 +2,7 @@
 title: 机场退款政策与工单支持边界：为什么绝大多数机场不支持退款？新手避坑必读
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-airport-refund-policy-and-sla/");</script>

@@ -2,6 +2,7 @@
 title: IPLC与IEPL内网专线机场深度指南：为什么晚高峰稳定不掉线全靠物理光缆
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-iplc-dedicated-line-guide/");</script>

@@ -2,6 +2,7 @@
 title: 宇宙云 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-yuzhouyun/");</script>

@@ -13,8 +13,8 @@ url: https://tiziwant.blog
 permalink: :category/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true
-  trailing_html: true
+  trailing_index: false
+  trailing_html: false
 
 ## Directory
 source_dir: source
@@ -90,4 +90,4 @@ sitemap:
   template:
   rel: false
   tags: false
-  categories: true
+  categories: false

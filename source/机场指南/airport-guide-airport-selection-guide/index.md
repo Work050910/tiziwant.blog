@@ -2,6 +2,7 @@
 title: 机场怎么选？2026年从节点线路、延迟倍率到晚高峰测速的全面挑选指南
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-airport-selection-guide/");</script>

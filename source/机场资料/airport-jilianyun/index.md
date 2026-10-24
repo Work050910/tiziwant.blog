@@ -2,6 +2,7 @@
 title: 极连云 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-jilianyun/");</script>

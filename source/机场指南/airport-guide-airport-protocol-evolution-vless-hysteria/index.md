@@ -2,6 +2,7 @@
 title: 2026 机场协议演进全景：从 Shadowsocks、V2Ray 到 VLESS Reality 与 Hysteria2
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-airport-protocol-evolution-vless-hysteria/");</script>

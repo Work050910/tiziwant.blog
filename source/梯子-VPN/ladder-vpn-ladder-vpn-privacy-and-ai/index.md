@@ -2,6 +2,7 @@
 title: 面向ChatGPT与Claude大模型的梯子vpn考量：原生纯净住宅IP防封号秘诀
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/ladder-vpn/ladder-vpn-ladder-vpn-privacy-and-ai/");</script>

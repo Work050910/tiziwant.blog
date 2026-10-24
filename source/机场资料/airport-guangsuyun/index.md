@@ -2,6 +2,7 @@
 title: 光速云 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-guangsuyun/");</script>

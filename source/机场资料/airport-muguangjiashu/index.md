@@ -2,6 +2,7 @@
 title: 暮光加速 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-muguangjiashu/");</script>

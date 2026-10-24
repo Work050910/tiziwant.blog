@@ -2,6 +2,7 @@
 title: FlyV（飞V） 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-flyv/");</script>

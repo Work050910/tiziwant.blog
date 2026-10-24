@@ -2,6 +2,7 @@
 title: 闪跃（FlashLeap） 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-flashleap/");</script>

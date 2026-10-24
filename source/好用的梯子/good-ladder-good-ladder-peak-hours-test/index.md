@@ -2,6 +2,7 @@
 title: 好用的梯子晚高峰实测逻辑：单线程下行、流媒体秒开与双梯子容灾方案
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/good-ladder/good-ladder-good-ladder-peak-hours-test/");</script>

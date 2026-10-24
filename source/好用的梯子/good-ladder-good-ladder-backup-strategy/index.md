@@ -2,6 +2,7 @@
 title: 告别单点断网：为什么拥有备用梯子是 2026 年资深网民的标准配置
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/good-ladder/good-ladder-good-ladder-backup-strategy/");</script>

@@ -2,6 +2,7 @@
 title: 机场节点倍率与流量结算规则：为什么 3x 高倍率会飞速消耗你的订阅额度？
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/airport-guide/airport-guide-airport-node-multipliers-explained/");</script>

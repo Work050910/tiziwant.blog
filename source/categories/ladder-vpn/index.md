@@ -2,6 +2,7 @@
 title: 梯子 VPN 分类
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/ladder-vpn/");</script>

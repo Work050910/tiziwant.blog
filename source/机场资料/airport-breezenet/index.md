@@ -2,6 +2,7 @@
 title: 微风网络（BreezeNet） 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-breezenet/");</script>

@@ -2,6 +2,7 @@
 title: 适合海外游戏联机与外服对战的好用梯子：延迟、丢包率与 UDP 全锥型 NAT 测试
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/good-ladder/good-ladder-good-ladder-gaming-low-latency/");</script>

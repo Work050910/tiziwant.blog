@@ -2,6 +2,7 @@
 title: 科研学术与文献检索专用的好用梯子：Google Scholar、arXiv 与海外数据库加速方案
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/good-ladder/good-ladder-good-ladder-academic-google-scholar/");</script>

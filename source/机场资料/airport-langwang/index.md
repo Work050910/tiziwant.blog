@@ -2,6 +2,7 @@
 title: 浪网（WaveNet） 评测
 layout: page
 comments: false
+sitemap: false
 ---
 
 <script>window.location.replace("/service/airport-langwang/");</script>
